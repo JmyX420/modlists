@@ -2,10 +2,10 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "NVMP RADD Modlist",
-    "description": "Installs everything you need to play New Vegas: Multiplayer.",
-    "author": "<JmyX/NVMP Team>",
+    "description": "Installs everything you need to play New Vegas: Multiplayer",
+    "author": "JmyX/NVMP TEAM",
     "maintainers": [
-      "github/JmyX"
+      "github/JmyX420"
     ],
     "game": "falloutnewvegas",
     "tags": [
@@ -20,20 +20,20 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
+      "image": "https://github.com/JmyX420/nvmp-radd-modlist/main/NVMPModlistSplash.jpg",
       "readme": "https://wiki.nv-mp.com/en/getting-started",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
+      "machineURL": "nvmpraddmodlist",
       "discordURL": "https://discord.gg/S6Jmx9k76B"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "NumberOfArchives": 52,
+      "SizeOfArchives": 1647628288,
+      "NumberOfInstalledFiles": 108,
+      "SizeOfInstalledFiles": 1681342464
     },
     "version": "1.0"
   }
