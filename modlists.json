@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "NVMP RADD Modlist",
-    "description": "Installs everything you need to play New Vegas: Multiplayer",
+    "description": "Installs everything you need to play New Vegas: Multiplayer. NVMP allows players to experience the expansive post-apocalyptic world of Fallout: New Vegas with friends or other players from around the globe. NV:MP is developed and maintained by a small team of modders and programmers who are working to create a stable, enjoyable, and immersive multiplayer experience for the Fallout: New Vegas community.",
     "author": "JmyX/NVMP TEAM",
     "maintainers": [
       "github/JmyX420"
