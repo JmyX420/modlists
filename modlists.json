@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/JmyX420/nvmp-radd-modlist/main/NVMPModlistSplash.jpg",
+      "image": "https://raw.githubusercontent.com/JmyX420/nvmp-radd-modlist/refs/heads/main/NVMPModlistSplash.webp",
       "readme": "https://wiki.nv-mp.com/en/getting-started",
       "download": "https://authored-files.wabbajack.org/NVMP%20RADD%20Modlist.wabbajack_6e130f20-78ed-4044-808d-a37b117e9fa0",
       "machineURL": "nvmpraddmodlist",
