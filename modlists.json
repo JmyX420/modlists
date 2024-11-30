@@ -22,18 +22,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/JmyX420/nvmp-radd-modlist/refs/heads/main/NVMPModlistSplash.webp",
       "readme": "https://wiki.nv-mp.com/en/getting-started",
-      "download": "https://authored-files.wabbajack.org/NVMP%20RADD%20Modlist.wabbajack_a26d7704-4ff2-4e7c-b877-9581a761c27c",
+      "download": "https://authored-files.wabbajack.org/NVMP%20RADD%20Modlist.wabbajack_87b875d7-2385-4621-99f5-efbb5fba0a28",
       "machineURL": "nvmpraddmodlist",
       "discordURL": "https://discord.gg/S6Jmx9k76B"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "RTSKGYzFI8E=",
-      "Size": 577187,
+      "Hash": "FVKrDSOVZ5g=",
+      "Size": 577268,
       "NumberOfArchives": 17,
-      "SizeOfArchives": 2209565724,
-      "NumberOfInstalledFiles": 2007,
-      "SizeOfInstalledFiles": 3323392165
+      "SizeOfArchives": 2210833820,
+      "NumberOfInstalledFiles": 2008,
+      "SizeOfInstalledFiles": 3325317408
     },
     "version": "1.0.4"
   }
