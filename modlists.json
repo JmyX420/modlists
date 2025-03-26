@@ -17,7 +17,7 @@
     ],
     "nsfw": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/JmyX420/nvmp-radd-modlist/refs/heads/main/NVMPModlistSplash.webp",
@@ -28,12 +28,12 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Aoc6esC/uBo=",
-      "Size": 381666,
+      "Hash": "hJOALhxcvg0=",
+      "Size": 381789,
       "NumberOfArchives": 16,
       "SizeOfArchives": 1772898920,
       "NumberOfInstalledFiles": 1198,
-      "SizeOfInstalledFiles": 2241343730
+      "SizeOfInstalledFiles": 2241344057
     },
     "version": "2.1.3"
   }
