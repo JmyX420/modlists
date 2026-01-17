@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/JmyX420/nvmp-radd-modlist/refs/heads/main/NVMPModlistSplash.webp",
       "readme": "https://nuwiki.nv-mp.com/wiki/Getting_Started:_Wabbajack",
-      "download": "https://authored-files.wabbajack.org/NVMP%20RADD%20Public%20Server%20Profile.wabbajack_9a5a7f44-3aac-47b6-9344-2a3991a19dcb",
+      "download": "https://authored-files.wabbajack.org/New%20Vegas%20Multiplayer.wabbajack_c558e1dc-1309-45e0-a713-b4405493d6d5",
       "machineURL": "nvmpraddmodlist",
       "discordURL": "https://discord.gg/S6Jmx9k76B"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "YXqT1N+8rYY=",
-      "Size": 381967,
-      "NumberOfArchives": 16,
-      "SizeOfArchives": 1800351227,
-      "NumberOfInstalledFiles": 1201,
-      "SizeOfInstalledFiles": 2286486829
+      "Hash": "gSXCZg2Haas=",
+      "Size": 385464,
+      "NumberOfArchives": 17,
+      "SizeOfArchives": 1885849396,
+      "NumberOfInstalledFiles": 1205,
+      "SizeOfInstalledFiles": 2373069152
     },
-    "version": "2.1.8"
+    "version": "2.1.9"
   }
 ]
