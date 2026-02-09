@@ -27,6 +27,7 @@
       "download": "https://authored-files.wabbajack.org/New%20Vegas%20Multiplayer.wabbajack_70f8fcf2-7415-491c-821d-cb7f9b6de1cf",
       "machineURL": "nvmpraddmodlist",
       "discordURL": "https://discord.gg/fzWuJZp2wN"
+      "websiteURL": "https://nv-mp.com/"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
