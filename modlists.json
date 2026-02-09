@@ -8,6 +8,7 @@
       "github/JmyX420"
     ],
     "game": "falloutnewvegas",
+    "official": true,
     "tags": [
       "Official",
       "Multiplayer",
@@ -16,7 +17,6 @@
       "Steam",
       "GOG"
     ],
-    "official": true,
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
